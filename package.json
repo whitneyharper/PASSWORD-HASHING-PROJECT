@@ -1,0 +1,15 @@
+{
+  "name": "password-hash-project",
+  "version": "1.0.0",
+  "description": "App that Hash a password from Plain Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whitney Harper",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1"
+  }
+}
